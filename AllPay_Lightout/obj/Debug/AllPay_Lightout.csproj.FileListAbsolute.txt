@@ -1,0 +1,9 @@
+C:\Aftab\AllPay_Lightout\AllPay_Lightout\bin\Debug\AllPay_Lightout.exe.config
+C:\Aftab\AllPay_Lightout\AllPay_Lightout\bin\Debug\AllPay_Lightout.exe
+C:\Aftab\AllPay_Lightout\AllPay_Lightout\bin\Debug\AllPay_Lightout.pdb
+C:\Aftab\AllPay_Lightout\AllPay_Lightout\obj\Debug\AllPay_Lightout.Form1.resources
+C:\Aftab\AllPay_Lightout\AllPay_Lightout\obj\Debug\AllPay_Lightout.Properties.Resources.resources
+C:\Aftab\AllPay_Lightout\AllPay_Lightout\obj\Debug\AllPay_Lightout.csproj.GenerateResource.cache
+C:\Aftab\AllPay_Lightout\AllPay_Lightout\obj\Debug\AllPay_Lightout.csproj.CoreCompileInputs.cache
+C:\Aftab\AllPay_Lightout\AllPay_Lightout\obj\Debug\AllPay_Lightout.exe
+C:\Aftab\AllPay_Lightout\AllPay_Lightout\obj\Debug\AllPay_Lightout.pdb
